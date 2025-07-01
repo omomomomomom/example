@@ -1,1 +1,1 @@
-This is an example README file. manual
+This is an example README file.
