@@ -1,1 +1,1 @@
-This is an example README file.manually added123
+This is an example README file updated in both repositories.
